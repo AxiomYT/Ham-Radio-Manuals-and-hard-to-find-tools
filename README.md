@@ -3,7 +3,7 @@ A collection of Ham Radio Manuals and hard to find tools
 
 ## Descriptions ##
 
-1) [Zakanaka amateur radio dsp software](Zaka124.zip)
+1) [Zakanaka amateur radio dsp software](zaka124.zip)
 2) [KMIJ Kenwood Remote Control for TS-850/TS-450](kmij3_11.zip)
 3) [Ham Grids](hgrids05.zip)
 4) [Super Morse 4.16](sm416.zip)
