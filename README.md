@@ -15,4 +15,4 @@ A collection of Ham Radio Manuals and hard to find tools
 10) [Yagi Designer](ydv21.zip)
 11) [Kenwood TS-870S Remote Control](TS870S.zip)
 12) [YagiMax 311](yagim311.zip)
-13) [YagiCad 6.2.6](YagiCad6.exe)
+13) [YagiCad 6.2.6](YC626Setup.exe)
