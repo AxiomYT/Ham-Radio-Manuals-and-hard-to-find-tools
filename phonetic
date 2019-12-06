@@ -1,0 +1,150 @@
+Phonetic Alphabet
+
+Alpha
+Bravo
+Charlie
+Delta
+Echo
+Foxtrot
+Golf
+Hotel
+India
+Juliet
+Kilo
+Lima
+Mike
+November
+Oscar
+Papa
+Quebec
+Romeo
+Sierra
+Tango
+Uniform
+Victor
+Whiskey
+X-Ray
+Yankee
+Zoulou
+ 
+
+ 
+
+ 
+
+HAM Radio Q Codes
+
+QRA	What is the name of your stn?	This is ____
+QRB	How far are you from my stn?	My distance is ____
+QRG	Will you tell me my freq?	I belong to the ____ Line
+QRI	How is the tone of my transm?	The tone of your transmission is ...
+1. good
+2. variable
+3. bad.
+QRK	How do you receive me?	I am receiving (1–5) where 1 is unreadable and 5 is perfect
+QRL	Are you busy?	I am busy
+QRM	Are you being interfered with?	I am being interfered with
+QRN	Any trouble with static?	Atmospherics are very strong
+QRO	Shall I increase transm. pwr?	Increase transmitter power
+QRP	Shall I decrease transm. pwr?	Decrease transmitter power
+QRQ	Shall I send faster?	Send faster (... words per minute)
+QRR	Ready for automatic operation?	I am ready for automatic operation. Send at ... words per minute
+QRS	Shall I send slower?	Send more slowly (... words per minute)
+QRT	Shall I stop sending?	Stop sending
+QRU	Have you anything for me?	I have nothing for you
+QRV	Are you ready?	I am ready
+QRX	When will you call again.?	I will call you again at ... hours on ... MHz
+QRZ	Who is calling me?	You are being called by ... on MHz
+QSB	Fading	Your signals are fading
+QSD	Is my keying defective?	Your keying is defective
+QSL	Can you acknowledge receipt?	I am acknowledging receipt
+QSN	Did you hear me or (c/s)?	I did hear you on ... c/s
+QSO	Radio Contact	
+QSP	Will you relay to (c/s)?	I will relay to ...
+QSV	Shall I send V's on this freq?	Send a series of V's on this frequency
+QSX	Will you listen to (c/s) on...freq?	I am listening to ...
+QSY	Shall I change to...frequency?	Change to transmission on another frequency
+QTH	What is your position?	My position is ...
+ 
+
+
+
+
+RST Code
+(RS for phone, RST for cw)
+ 
+Readability
+
+
+R1  Unreadable.
+R2  Barely readable, occasional words distinguishable.
+R3  Readable with considerable difficulty.
+R4  Readable with practically no difficulty.
+R5  Perfectly readable.
+ 
+
+
+Signal strength
+ 
+
+S1  Faint, signals barely readable
+S2  Very weak signals
+S3  Weak signals
+S4  Fair signals
+S5  Fairly good signals
+S6  Good signals
+S7  Moderately strong signals
+S8  Strong signals
+S9  Extremely strong signals
+ 
+
+
+Tone
+ 
+
+Tl   Extremely rough hissing note
+T2  Very rough ac note, not musical
+T3  Rough, low-pitched ac note, mod. music
+T4  Rather rough ac note, mod. musical
+T5  Musically modulated note
+T6  Modulated note, slight trace of whistle
+T7  Near dc note, smooth ripple
+T8  Good dc note, just a trace of ripple
+T9  Purest dc note
+
+
+
+
+
+RSQ Code
+(for digital modes)
+ 
+Readability
+
+
+R1    0%   copy - Undecipherable
+R2  20%   copy - Occasional words distinguishable
+R3  40%   copy - Readable with difficulty, many missed characters
+R4  80%   copy - Readable with no difficulty
+R5  95%+ copy - Perfectly readable
+ 
+
+
+Signal strength
+ 
+
+S1  Barely perceptible trace
+S3  Weak trace
+S5  Moderate trace
+S7  Strong Trace
+S9  Very strong trace 
+
+
+Quality
+ 
+
+Ql   Splatter over much of the spectrum
+Q3  Multiple visible pairs
+Q5  One easily visible pair
+Q7  One barely visible pair
+Q9  Clean signal - no visible unwanted sidebars
