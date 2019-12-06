@@ -31,7 +31,7 @@ A collection of Ham Radio Manuals and hard to find tools
 
 * [All Entities Sorted by Name](dxccen.txt)
 
-* [IARU REGION 1 VHF/UHF/Microwaves Bandplans in PDF format](VHF\ BandPlan\ 2017\ PRACTICAL\ INFORMATION\ FOR\ ALL\ USERS.pdf)
+* [IARU REGION 1 VHF/UHF/Microwaves Bandplans in PDF format](VHF%20BandPlan%202017%20PRACTICAL%20INFORMATION%20FOR%20ALL%20USERS.pdf)
 
 * [Yaesu FT-897 menu tables in EXCEL format]()
 
