@@ -33,10 +33,10 @@ A collection of Ham Radio Manuals and hard to find tools
 
 * [IARU REGION 1 VHF/UHF/Microwaves Bandplans in PDF format](VHF%20BandPlan%202017%20PRACTICAL%20INFORMATION%20FOR%20ALL%20USERS.pdf)
 
-* [Yaesu FT-897 menu tables in EXCEL format]()
+* [Yaesu FT-897 menu tables in EXCEL format](897menu.xls)
 
-* [Yaesu FT-897 quick menu tables in EXCEL format]()
+* [Yaesu FT-897 quick menu tables in EXCEL format](897MFcard.xls)
 
-* [Ham Code Guide by KF6UJS in PDF format]()
+* [Ham Code Guide by KF6UJS in PDF format](HamCodeGuide.pdf)
 
-* [IARU HF INTERNATIONAL EMERGENCY OPERATING PROCEDURE]()
+* [IARU HF INTERNATIONAL EMERGENCY OPERATING PROCEDURE](hf-emg-proc.pdf)
